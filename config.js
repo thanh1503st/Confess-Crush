@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Người anh yêu",
-    introTitle: 'Đàm Huy Linh',
+    introTitle: 'Đàm Huy Linh 🧡 ',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -13,8 +13,8 @@ const CONFIG = {
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'cho anh biết trong mess nhé <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay , chơi game nha bé.',
+    mess: 'Anh đợi tin nhắn em nhé 🥰. Yêu Linh nhiều nhiều 😘😘',
+    messDesc: 'Tối nay nếu rảnh ,mình chơi game nha bé.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100012438708482' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://www.messenger.com/t/100056507880503/' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
